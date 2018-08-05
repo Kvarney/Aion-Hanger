@@ -3,6 +3,7 @@ https://www.tutorialspoint.com/swing/swing_jlabel
 compilation: javac JLabelDemo.java
 execution: java JLabelDemo
 */
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
