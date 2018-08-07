@@ -36,6 +36,7 @@ public class JCheckBoxDemo{
 
 		headerLabel = new JLabel("", JLabel.CENTER);
 		statusLabel = new JLabel("", JLabel.CENTER);
+		statusLabel.setSize(350, 100);
 
 		controlPanel = new JPanel();
 		controlPanel.setLayout(new FlowLayout());
