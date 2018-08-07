@@ -1,7 +1,7 @@
 /*
 https://www.tutorialspoint.com/swing/swing_jcolorchooser
-compilation: javac JButtonDemo.java
-execution: java JButtonDemo
+compilation: javac JColorChooserDemo.java
+execution: java JColorChooserDemo
 */
 
 import java.awt.*;
