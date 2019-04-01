@@ -1,2 +1,1 @@
-Welcome to the Aion-Hanger! Where I will be learning to use SWING to create gui's. All current 
-material is taken from https://www.tutorialspoint.com/swing.   
+Welcome to the Aion-Hanger! Here I will be using Swing to learn to make basic GUI's from https://www.tutorialspoint.com/swing as well as doing exercises from text books that will be credited in my exercises.
