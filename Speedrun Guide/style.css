@@ -1,0 +1,19 @@
+body{
+	background-color: #f4f4f4f4;
+	color: #555555;
+}
+.coreCrystal{
+	color: #1E90FF;
+}
+.auxCore{
+
+}
+.coreChip{
+	color: #FFD700;
+}
+.accessory{
+	color: #9400D3;
+}
+.consumable{
+	color: #FF00FF;
+}
